@@ -21,4 +21,5 @@ Game hacking is the process of modifying a game’s behavior to change how it wo
 
 > In this workshop, we focus on **single-player memory hacking** using Cheat Engine and Python automation — beginner-friendly and fun!
 
-```  
+## 🔍 canva ppt
+https://www.canva.com/design/DAGrGTLwBpo/GUwKYZQq5YbhYDHw5Oo-MA/edit?utm_content=DAGrGTLwBpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
